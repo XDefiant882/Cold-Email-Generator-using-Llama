@@ -1,0 +1,9 @@
+langchain
+transformers
+chromadb
+streamlit
+numpy
+pandas
+scikit-learn
+tqdm
+matplotlib
